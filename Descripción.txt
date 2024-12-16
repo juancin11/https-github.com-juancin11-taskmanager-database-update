@@ -1,6 +1,9 @@
 Proyecto: Actualización de la Base de Datos de la Empresa
 Objetivo
 El objetivo de este proyecto es desarrollar una versión actualizada de la base de datos de la empresa que sustituirá la base de datos actual. La nueva base de datos estará diseñada para satisfacer las necesidades actuales y futuras de la organización, garantizando eficiencia, integridad y escalabilidad.
+Nota Especial
+
+Este proyecto tiene la finalidad de ver qué tan bien se desempeñan los aprendices con respecto a bases de datos. No será una base de datos de la empresa, será solo una simulación para ver cuál de los 6 equipos que tienen el mismo proyecto quedará contratado en la empresa. De los 6 equipos, solo quedará 1 contratado. ¡Buena suerte a todos!
 Equipo Responsable
 - Supervisor: Oswaldo David Vanegas Ortiz
   - Rol: Supervisar el desarrollo de la base de datos y aprobar su implementación final.
