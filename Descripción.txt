@@ -1,0 +1,55 @@
+Proyecto: Actualización de la Base de Datos de la Empresa
+Objetivo
+El objetivo de este proyecto es desarrollar una versión actualizada de la base de datos de la empresa que sustituirá la base de datos actual. La nueva base de datos estará diseñada para satisfacer las necesidades actuales y futuras de la organización, garantizando eficiencia, integridad y escalabilidad.
+Equipo Responsable
+- Supervisor: Oswaldo David Vanegas Ortiz
+  - Rol: Supervisar el desarrollo de la base de datos y aprobar su implementación final.
+  - Correo de contacto: Odavid@gmail.com
+- Equipo de Desarrollo:
+  1. Juan Alberto Bustillo Rodríguez
+  2. Iliana Abigail Terán Mojica
+  3. Keiry Adriana Villanueva Solís
+  4. Eduardo Arnoldo Rodríguez Melgar
+
+  Rol del equipo: Diseñar, desarrollar y probar la nueva base de datos.
+Plan de Trabajo
+1. Inicio del Proyecto:
+   - Comprensión de los requerimientos y estructura de la base de datos actual.
+   - Reunión inicial con el supervisor para definir objetivos específicos.
+
+2. Diseño de la Base de Datos Actualizada:
+   - Análisis de las limitaciones de la base de datos actual.
+   - Diseño del esquema actualizado, considerando:
+     - Nuevas tablas necesarias.
+     - Relaciones entre tablas.
+     - Optimización de consultas frecuentes.
+
+3. Desarrollo:
+   - Creación de la nueva base de datos en un entorno de desarrollo.
+   - Migración inicial de datos para pruebas.
+
+4. Pruebas:
+   - Verificación de la integridad de los datos.
+   - Pruebas de rendimiento y optimización de consultas.
+   - Corrección de errores encontrados.
+
+5. Revisión por el Supervisor:
+   - Presentación de avances y del estado final al supervisor.
+   - Incorporación de observaciones.
+
+6. Transición a Producción:
+   - El supervisor aprobará la transición final.
+   - Migración completa de datos desde la base antigua hacia la nueva.
+   - Sustitución de la base de datos antigua por la actualizada.
+Notas Importantes
+- Responsabilidad del Supervisor:
+  Oswaldo David Vanegas Ortiz será responsable de revisar cada fase del proyecto para asegurar su calidad y adecuación a los objetivos establecidos. Solo él decidirá el momento de realizar la transición a la nueva base de datos.
+
+- Comunicación:
+  Cualquier duda, problema técnico o consulta debe ser comunicada al supervisor mediante su correo electrónico: Odavid@gmail.com.
+
+- Compromiso del Equipo:
+  Los desarrolladores mencionados deben colaborar estrechamente para cumplir con los tiempos y garantizar la calidad del producto final.
+Fechas
+Fecha de Inicio: 16/12/2024
+Fecha Estimada de Finalización: 16/01/2025
